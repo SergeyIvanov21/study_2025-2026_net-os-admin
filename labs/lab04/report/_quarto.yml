@@ -1,6 +1,0 @@
-project:
-  title: "report"
-  output-dir: "_report"
-
-standalone: true
-self-contained: true
